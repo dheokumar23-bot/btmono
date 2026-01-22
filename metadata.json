@@ -1,0 +1,7 @@
+{
+  "name": "BTmono Simulator",
+  "description": "A minimal simulation of the classic BTmono app for Android, demonstrating Bluetooth SCO audio routing logic and UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
